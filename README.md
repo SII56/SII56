@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 This is SII56
+
+**First-Year Computer Science Student**
+
+- 🌱 I’m currently learning ...
+- Data Structure
+- English
+- Java, python, C++...
 
 <!--
 **SII56/SII56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
