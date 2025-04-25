@@ -1,8 +1,10 @@
-## Hi there 👋 This is SII56
+## Hi there! 👋 This is SII56
 
 **First-Year Computer Science Student**
 
-- 🌱 I’m currently learning ...
+Living in China GuangDong
+
+🌱 I’m currently learning ...
 - Data Structure
 - English
 - Java, python, C++...
