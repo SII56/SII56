@@ -2,7 +2,7 @@
 
 **First-Year Computer Science Student**
 
-Living in China GuangDong
+Living in Canton(Kwangtung) of China.
 
 🌱 I’m currently learning ...
 - Data Structure
