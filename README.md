@@ -1,6 +1,6 @@
 ## Hi there! 👋 This is SII56
 
-**First-Year Computer Science Student**
+**Second-Year Computer Science Student**
 
 Living in Canton(Kwangtung) of China.
 
